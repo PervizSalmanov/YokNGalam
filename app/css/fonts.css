@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Chunkfive; /* Имя шрифта */
+    src: url(../fonts/Chunkfive.otf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-Black; /* Имя шрифта */
+    src: url(../fonts/Lato-Black.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-Bold; /* Имя шрифта */
+    src: url(../fonts/Lato-Bold.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-Heavy; /* Имя шрифта */
+    src: url(../fonts/Lato-Heavy.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-Light; /* Имя шрифта */
+    src: url(../fonts/Lato-Light.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-Medium; /* Имя шрифта */
+    src: url(../fonts/Lato-Medium.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-MediumItalic; /* Имя шрифта */
+    src: url(../fonts/Lato-MediumItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Lato-Regular; /* Имя шрифта */
+    src: url(../fonts/Lato-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Bold; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Bold.otf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Regular; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Regular.otf); /* Путь к файлу со шрифтом */
+}

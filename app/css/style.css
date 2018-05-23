@@ -1,0 +1,62 @@
+*{padding: 0; margin: 0;}
+li{list-style: none;}
+a{text-decoration: none}
+li{list-style: none; text-decoration: none; }
+#block-1{background: url(../images/bg.jpg ) no-repeat; height: 737px; background-size: 100% 100%; min-height: 100vh; position: relative;}
+.inner{width: 1290px; max-width: 100%; margin: 0 auto}
+.navbar-brand img{margin-top: 3.375em}
+ul.nav.navbar-nav.navbar-right{margin-top: 3.375em}
+ul.nav.navbar-nav.navbar-right img {margin-top: -15px}
+ul.nav.navbar-nav.navbar-right li {font-size: 0.875em; font-family: Lato-Medium; margin-left: 4.000em}
+p.let{font-size: 5.000em; font-family: Chunkfive; color: #fff; text-align: center; margin-top: 111px; }
+p.let span{color: #01a2a6; }
+p.let2{text-align: center;color: #fafafa;  font-size: 1.125em;     line-height: 2;} 
+.but1{text-align: center; cursor: pointer; margin-top: 51px}
+@media screen and (max-width: 906px) {ul.nav.navbar-nav.navbar-right li { margin-left: 3.000em;}}
+@media screen and (max-width: 832px) {ul.nav.navbar-nav.navbar-right li { margin-left: 2.000em;}}
+@media screen and (max-width: 768px) {
+.navbar-brand img{margin-top: 16px}
+ul.nav.navbar-nav.navbar-right{margin-top: 0.625em;margin-left: -47px; }
+li.Vxod img{display: none;}
+li.Vxod a {display: none; box-shadow: none;}}
+#block-2{ height: 449px; background-size: 100%}
+p.c1{font-size: 3.75em; font-family: Chunkfive; color: #01a2a6; margin-bottom: 30px}
+p.c1 span{color: #29d9c2}
+p.c2 {line-height: 2; font-size: 1em}
+.city{margin-left: 51.16279069767442%; margin-top: -224px;}
+.home img{margin-top: 124px; background-size: 100%}
+@media screen and (max-width: 906px){p.c1,p.c2{display: none;} .home{text-align: center;}}
+@media screen and (max-width: 700px){.home img{ width: 75%;height: auto;}}
+#block-3{height: 1453px; background: #f2fefe; }
+p.dest{margin-left: 12.48062015503876%; padding-top: 69px; 	display: inline-block; font-family: Chunkfive; font-size: 3.3875em; color: #29d9c2;}
+p.dest span{color: #01a2a6;}
+p.see{display: inline-block; font-size: 1em; color: #aeaeae; font-family: Lato-Medium; margin-left: 38.06201550387597%}
+@media screen and (max-width: 393px){p.dest{margin-left: 0px} p.see{margin-left: 76px}}
+p.text{margin-left: 12.4031007751938%; margin-top: 6.046511627906977%; font-family: Lato-Regular; color: #777777; line-height: 2}
+.inp input{background: url(../images/search.png) no-repeat 8px 8px;width: 231px; border-radius: 50px; border: 2px solid #e8e8e8; height: 35px; outline: none;}
+.inp{margin-left: 12.4031007751938%; margin-top: 69px;  }
+ul.lal li{display: inline-block; font-size: }
+ul.lal{overflow: hidden;}
+ul.lal li.VV{font-size: 1em; color: #777777; font-family: Lato-Black}
+ul.lal li.V{font-size: 1em; color: #aeaeae; font-family: Lato-Medium}
+ul.lal{margin-left: 66.04651162790698%; margin-top: -26px;}
+.fly{background: url(../images/fly.png) no-repeat; height: 788px; margin-left: 4.651162790697674%; background-size: 100% 100%}
+p.more{font-size: 1em; font-family: Lato-Bold; color: #fff;     margin-left: 50.827132%;padding-top: 537px;}
+p.more a{color: #fff}
+.xt{margin-left: 63.224806%; margin-top: -343px}
+.xt span{line-height: 2; color: #777777; font-family: Lato-Bold; font-size: 1em}
+p.batu{color: #01a2a6; font-family: Lato-Light; font-size: 30px}
+.xz1{background: url(../images/vs.png) no-repeat;height: 361px;width: 115%;}
+.xz2{background: url(../images/vs1.png) no-repeat;height: 361px;margin-left: 17.751938%;}
+.xz{margin-left: 4.961240310077519%; margin-top: -172px; }
+.xz1 p{color: #01a2a6; font-family: Lato-Light; font-size: 1.875em; margin-left: 31px}
+.xz1 {padding-top: 123px}
+.ll{margin-left: 2.403100775193798%}
+.aaa ul{margin-top: 400px}
+.aaa ul li{display: inline-block; margin-left: 1.627906976744186%; }
+.aaa ul li a{color: #777777}
+.aaa ul li a:hover{color: #01a2a6}
+.aaa{text-align: center; }
+@media (max-width: 960px){.xt span{ font-size: 0.8em; } ul.lal{display: none;}}
+@media (max-width: 450px){.xt span{ font-size: 0.5em; } .ll{font-size: 0.9em}}
+input[value="search destination"] { color: #b5b5b5; font-size: 14px; 	font-family: Lato-MediumItalic;  padding-left: 36px; }​
